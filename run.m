@@ -1,0 +1,4 @@
+dataarray;
+neuralnetwork;
+testOnData;
+
